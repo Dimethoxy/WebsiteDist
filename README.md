@@ -1,6 +1,8 @@
 # About
 
 This repository contains the minimized dist folder for the Dimethoxy website.
+To view this site, visit [https://dimethoxy.com/](https://dimethoxy.com/)
+
 
 # License
 
