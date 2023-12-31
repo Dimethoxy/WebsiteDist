@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ad61af1c",
+    "path": "./posts/plasma_1.0.1.md",
+    "slug": "2023-08-21/release/plasma-release-101",
+    "metadata": {
+      "title": "Plasma Release 1.0.1",
+      "author": "Lunix",
+      "date": "2023-08-21",
+      "category": "Release",
+      "description": "Explore Plasma's new features, improvements, and more in our recent release.",
+      "keywords": [
+        "Update",
+        "Patchnotes"
+      ],
+      "image": "../covers/tools_purple_small.webp"
+    }
+  },
+  {
+    "id": "-17b7c38fa",
+    "path": "./posts/welcome.md",
+    "slug": "2023-06-12/introduction/welcome-to-dimethox",
+    "metadata": {
+      "title": "Welcome to Dimethox",
+      "author": "Lunix",
+      "date": "2023-06-12",
+      "category": "Introduction",
+      "description": "This is the inaugural post on the Dimethox website, and we're thrilled to have you here.",
+      "keywords": [
+        "News",
+        "Blog"
+      ],
+      "image": "../covers/welcome_small.webp"
+    }
+  }
+]
