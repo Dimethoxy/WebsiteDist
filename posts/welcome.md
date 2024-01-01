@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Dimethox"
+title: "Welcome to Dimethoxy"
 author: "Lunix"
 date: "2023-06-12"
 category: Introduction
@@ -10,7 +10,7 @@ keywords:
 image: "../covers/welcome_small.webp"
 ---
 
-# 🔥 Welcome to Dimethox
+# **🔥 Welcome to Dimethoxy**
 
 ---
 
@@ -20,10 +20,11 @@ image: "../covers/welcome_small.webp"
 
 ---
 
-**🎧Greetings, music producers!🎧** \
+## Greetings, Music Producers! 🎧
+
 This is the inaugural post on the Dimethox website, and we're thrilled to have you here.
 
-## What's this page about?
+### What's this page about?
 
 Here's a quick rundown of what you can expect from this space:
 

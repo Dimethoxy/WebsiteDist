@@ -10,7 +10,7 @@ keywords:
 image: "../covers/tools_purple_small.webp"
 ---
 
-# 🛠️ Plasma Release 1.0.1: Fixing, Polishing
+# **🛠️ Plasma Release 1.0.1: Fixing, Polishing**
 
 ---
 
@@ -20,7 +20,8 @@ image: "../covers/tools_purple_small.webp"
 
 ---
 
-## Hey there, fellow sonic architects!
+## Hey there, fellow sonic architects! 🔊
+
 This is our first revision of our distortion VST plugin Plasma. \
 The purpose of this update is to bring you a more refined experience.
 
