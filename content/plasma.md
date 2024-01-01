@@ -61,7 +61,7 @@ Downloads are available from our [GitHub Repository](https://github.com/Dimethox
 
 ---
 
-The source code is licensed under the **GPLv3**. If you download the source or create builds, you must comply with that license. For more information, visit [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/).
+The source code is licensed under the **GPLv3**. If you download the source or create builds, you must comply with that license. For more information, visit: [https://www.gnu.org/licenses/gpl-3.0.en.html](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Warranty
 
