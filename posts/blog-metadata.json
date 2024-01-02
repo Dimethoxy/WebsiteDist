@@ -1,13 +1,13 @@
 [
   {
-    "id": "-18e661bb",
+    "id": "8cfc348e",
     "path": "./posts/plasma_1.0.1.md",
-    "slug": "2023-08-21/release/plasma-release-101",
+    "slug": "2023-08-21/update/plasma-update-101",
     "metadata": {
-      "title": "Plasma Release 1.0.1",
+      "title": "Plasma Update 1.0.1",
       "author": "Lunix",
       "date": "2023-08-21",
-      "category": "Release",
+      "category": "Update",
       "description": "Explore Plasma's new features, improvements, and more in our recent release.",
       "keywords": [
         "Update",
@@ -17,14 +17,31 @@
     }
   },
   {
-    "id": "-1151d29f",
+    "id": "dda6128f",
+    "path": "./posts/plasma_1.0.2.md",
+    "slug": "2024-01-02/update/plasma-update-102",
+    "metadata": {
+      "title": "Plasma Update 1.0.2",
+      "author": "Lunix",
+      "date": "2024-01-02",
+      "category": "Update",
+      "description": "Check out our latest performance improvements and bug fixes for Plasma",
+      "keywords": [
+        "Update",
+        "Patchnotes"
+      ],
+      "image": "../covers/tools_purple_small.webp"
+    }
+  },
+  {
+    "id": "-6b6f3c6b",
     "path": "./posts/recap_2023.md",
-    "slug": "2024-01-01/recap/new-years-update-2024",
+    "slug": "2024-01-01/news/new-years-update-2024",
     "metadata": {
       "title": "New Year's Update 2024",
       "author": "Lunix",
       "date": "2024-01-01",
-      "category": "Recap",
+      "category": "News",
       "description": "Summarizing our accomplishments from 2023 and outlining goals for 2024.",
       "keywords": [
         "News",
@@ -34,14 +51,14 @@
     }
   },
   {
-    "id": "-241c449bc",
+    "id": "-29be1b387",
     "path": "./posts/welcome.md",
-    "slug": "2023-06-12/introduction/welcome-to-dimethoxy",
+    "slug": "2023-06-12/news/welcome-to-dimethoxy",
     "metadata": {
       "title": "Welcome to Dimethoxy",
       "author": "Lunix",
       "date": "2023-06-12",
-      "category": "Introduction",
+      "category": "News",
       "description": "This is the inaugural post on the Dimethox website, and we're thrilled to have you here.",
       "keywords": [
         "News",
