@@ -36,7 +36,7 @@ Here is a list of the things we got done this year:
 
 4. **📦 New Build Chain:** Enhancing our development efficiency, we seamlessly transitioned our entire C++ build chain from JUCE's Projucer tool to CMake. This strategic move facilitates a more streamlined process for creating and compiling cross-platform binaries. This will hopefully help us expand our platform support to various Linux distros, including Arch and Ubuntu.
 
-5. **🪛 Enhanced Plasma:** Version 1.0.1 addressed significant bugs and enhanced the plugin's visual appeal. In the upcoming 1.0.2 release scheduled for tomorrow, we have significantly improved startup time and overall performance.
+5. **🪛 Enhanced Plasma:** Version 1.0.1 addressed significant bugs and enhanced the plugin's visual appeal. In the upcoming 1.0.2 release scheduled for this week, we have significantly improved startup time and overall performance.
 
 ### What's in the pipeline?
 

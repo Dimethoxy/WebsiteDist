@@ -1,7 +1,7 @@
 ---
 title: "Plasma Update 1.0.2"
 author: "Lunix"
-date: "2024-01-02"
+date: "2024-01-03"
 category: Update
 description: "Check out our latest performance improvements and bug fixes for Plasma"
 keywords:
