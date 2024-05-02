@@ -8,6 +8,7 @@ keywords:
   - News
   - Blog
 image: "../covers/welcome_small.webp"
+draft: false
 ---
 
 # 🔥 Welcome to Dimethoxy

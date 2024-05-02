@@ -8,6 +8,7 @@ keywords:
   - Update
   - Patchnotes
 image: "../covers/tools_purple_small.webp"
+draft: false
 ---
 
 # 🛠️Plasma 1.0.1 - Polishing

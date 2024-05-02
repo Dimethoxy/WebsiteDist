@@ -1,13 +1,14 @@
 ---
 title: "Plasma Update 1.0.2"
 author: "Lunix"
-date: "2024-01-03"
+date: "2024-01-02"
 category: Update
 description: "Check out our latest performance improvements and bug fixes for Plasma"
 keywords:
   - Update
   - Patchnotes
 image: "../covers/tools_purple_small.webp"
+draft: false
 ---
 
 # 🛠️Plasma 1.0.2 - Performance Improvements

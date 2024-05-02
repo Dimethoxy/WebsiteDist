@@ -1,6 +1,6 @@
 [
   {
-    "id": "84723b1a",
+    "id": "d4fc79d8",
     "path": "./posts/plasma_1.0.1.md",
     "slug": "2023-08-21/update/plasma-update-101",
     "metadata": {
@@ -13,17 +13,18 @@
         "Update",
         "Patchnotes"
       ],
-      "image": "../covers/tools_purple_small.webp"
+      "image": "../covers/tools_purple_small.webp",
+      "draft": false
     }
   },
   {
-    "id": "d51c191c",
+    "id": "225a657da",
     "path": "./posts/plasma_1.0.2.md",
-    "slug": "2024-01-03/update/plasma-update-102",
+    "slug": "2024-01-02/update/plasma-update-102",
     "metadata": {
       "title": "Plasma Update 1.0.2",
       "author": "Lunix",
-      "date": "2024-01-03",
+      "date": "2024-01-02",
       "category": "Update",
       "description": "Check out our latest performance improvements and bug fixes for Plasma",
       "keywords": [
@@ -34,7 +35,7 @@
     }
   },
   {
-    "id": "-73f935df",
+    "id": "-1236ef721",
     "path": "./posts/recap_2023.md",
     "slug": "2024-01-01/news/new-years-update-2024",
     "metadata": {
@@ -51,7 +52,7 @@
     }
   },
   {
-    "id": "-1a46bacfb",
+    "id": "-153e16e3e",
     "path": "./posts/welcome.md",
     "slug": "2023-06-12/news/welcome-to-dimethoxy",
     "metadata": {
