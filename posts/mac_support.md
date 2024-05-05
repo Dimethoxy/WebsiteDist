@@ -1,7 +1,7 @@
 ---
 title: "Exciting Mac News"
 author: "Lunix"
-date: "2024-04-30"
+date: "2024-05-10"
 category: News
 description: "We are thrilled to announce that we are now official members of the Apple Developer Program!"
 keywords:

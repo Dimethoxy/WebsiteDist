@@ -1,13 +1,13 @@
 ---
 title: "Official Linux Support"
 author: "Lunix"
-date: "2024-04-29"
+date: "2024-05-05"
 category: News
 description: "We're pleased to announce that going into the future, we will be offering support for Linux."
 keywords:
   - News
 image: "../covers/arch_small.webp"
-draft: true
+draft: false
 ---
 
 # 🐧 Embracing Linux: A New Frontier for Us!
