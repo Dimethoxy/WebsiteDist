@@ -16,34 +16,20 @@ However, Plasma is not just limited to hard dance genres – it's a versatile to
 
 - Free (as in freedom) and open-source
 - Asymmetrical distortion
-- 3 filters for shaping the sound
 - 10 different distortion styles
+- 3 filters for shaping the tone
 - Innovative "Girth" effect to add treble to your sound
-- Oscilloscope to visualize waveform shaping
-- Color-customizable GUI
-- Pre-built binaries for Windows and macOS.
+- Oscilloscope to visualize the output waveform
+- Color-customizable minimalistic vector GUI
+- Scalable for high-resolution displays
+- Very low resource consumption
+- Support for Windows, MacOS, and Linux
 
 ## Downloads
 
 ---
 
-You can download our pre-built binaries for Windows and macOS [here](https://github.com/Dimethoxy/Plasma/releases)
-
-## Installation
-
----
-
-### Windows
-
-- Download the zip [here](https://github.com/Dimethoxy/Plasma/releases)
-- Unzip
-- Copy the Plasma.vst3 file to _%CommonProgramFiles%\VST3_
-
-### MacOS
-
-- Download the zip [here](https://github.com/Dimethoxy/Plasma/releases)
-- Unzip
-- Copy the Plasma.vst3 file to _Library/Audio/Plug-ins/VST3_
+You can download our pre-built binaries for Windows, MacOS and Linux [here](https://github.com/Dimethoxy/Plasma/releases).
 
 ## System Requirements
 
@@ -53,7 +39,7 @@ You can download our pre-built binaries for Windows and macOS [here](https://git
 
 - Windows 10 or later
 - Intel or AMD CPU with a 64-bit quad-core processor
-- At least 50 MB of free disk space
+- At least 25 MB of free disk space
 - A compatible 64-bit host DAW that supports VST3 plugins
 - ARM versions of Windows are NOT supported
 
@@ -61,7 +47,14 @@ You can download our pre-built binaries for Windows and macOS [here](https://git
 
 - MacOS 10.13 or later
 - Intel or Apple Silicon CPU
-- At least 100 MB of free disk space
+- At least 80 MB of free disk space
+- A compatible 64-bit host DAW that supports VST3 plugins
+
+### Linux
+
+- Mainstream x86_64 Linux distribution
+- Intel or AMD CPU with a 64-bit quad-core processor
+- At least 60 MB of free disk space
 - A compatible 64-bit host DAW that supports VST3 plugins
 
 ## Donations
