@@ -27,10 +27,10 @@ This marks a significant step forward in our commitment to providing inclusive a
 
 ### Addressing Community Feedback
 
-Recently, we've received some valuable feedback from the community regarding our Plugin "Plasma". We're delighted with the overwhelmingly positive responses it has received so far. However, one recurring critique that caught our attention was the lack of Linux support.
+Recently, we've received some valuable feedback from the community regarding our plugin "Plasma". We're delighted with the overwhelmingly positive responses it has received so far. However, one recurring critique that caught our attention was the lack of Linux support.
 
 While we've always provided a make file for compiling on Linux, we acknowledge that font scaling issues existed, and we hadn't prioritized compiling for Linux ourselves.
 
-In response to this feedback, we're taking concrete steps to address this gap. Moving forward, we'll be providing officially compiled binaries, build on Arch Linux, ensuring smoother integration and enhanced user experience for our Linux users.
+In response to this feedback, we're taking concrete steps to address this gap. Moving forward, we'll be providing officially compiled binaries, built on Arch Linux, ensuring smoother integration and enhanced user experience for Linux users.
 
 **🌟 We appreciate your patience and support as we strive to make our products more accessible to all user. 🌟**

@@ -1,6 +1,6 @@
 [
   {
-    "id": "604af259",
+    "id": "e4405bc",
     "path": "./posts/linux_support.md",
     "slug": "2024-05-05/news/official-linux-support",
     "metadata": {
@@ -17,7 +17,24 @@
     }
   },
   {
-    "id": "9b59b665",
+    "id": "-5b6e46e8",
+    "path": "./posts/mac_support.md",
+    "slug": "2024-05-10/news/exciting-mac-news",
+    "metadata": {
+      "title": "Exciting Mac News",
+      "author": "Lunix",
+      "date": "2024-05-10",
+      "category": "News",
+      "description": "We are thrilled to announce that we are now official members of the Apple Developer Program!",
+      "keywords": [
+        "News"
+      ],
+      "image": "../covers/mac_small.webp",
+      "draft": false
+    }
+  },
+  {
+    "id": "4952c9b2",
     "path": "./posts/plasma_1.0.1.md",
     "slug": "2023-08-21/update/plasma-update-101",
     "metadata": {
@@ -35,7 +52,7 @@
     }
   },
   {
-    "id": "1ec039466",
+    "id": "199fca7b4",
     "path": "./posts/plasma_1.0.2.md",
     "slug": "2024-01-02/update/plasma-update-102",
     "metadata": {
@@ -53,7 +70,7 @@
     }
   },
   {
-    "id": "-5d11ba94",
+    "id": "-af18a747",
     "path": "./posts/recap_2023.md",
     "slug": "2024-01-01/news/new-years-update-2024",
     "metadata": {
@@ -71,7 +88,7 @@
     }
   },
   {
-    "id": "-8d8431b1",
+    "id": "-df8b1e4e",
     "path": "./posts/welcome.md",
     "slug": "2023-06-12/news/welcome-to-dimethoxy",
     "metadata": {
