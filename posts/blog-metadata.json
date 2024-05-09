@@ -1,6 +1,6 @@
 [
   {
-    "id": "e4405bc",
+    "id": "ad136a81",
     "path": "./posts/linux_support.md",
     "slug": "2024-05-05/news/official-linux-support",
     "metadata": {
@@ -17,13 +17,13 @@
     }
   },
   {
-    "id": "-5b6e46e8",
+    "id": "-bc9ee224",
     "path": "./posts/mac_support.md",
-    "slug": "2024-05-10/news/exciting-mac-news",
+    "slug": "2024-05-08/news/exciting-mac-news",
     "metadata": {
       "title": "Exciting Mac News",
       "author": "Lunix",
-      "date": "2024-05-10",
+      "date": "2024-05-08",
       "category": "News",
       "description": "We are thrilled to announce that we are now official members of the Apple Developer Program!",
       "keywords": [
@@ -34,7 +34,7 @@
     }
   },
   {
-    "id": "4952c9b2",
+    "id": "e8223117",
     "path": "./posts/plasma_1.0.1.md",
     "slug": "2023-08-21/update/plasma-update-101",
     "metadata": {
@@ -52,7 +52,7 @@
     }
   },
   {
-    "id": "199fca7b4",
+    "id": "138cc0f19",
     "path": "./posts/plasma_1.0.2.md",
     "slug": "2024-01-02/update/plasma-update-102",
     "metadata": {
@@ -70,7 +70,25 @@
     }
   },
   {
-    "id": "-af18a747",
+    "id": "-9add4b28",
+    "path": "./posts/plasma_1.1.0.md",
+    "slug": "2024-05-09/update/plasma-update-110",
+    "metadata": {
+      "title": "Plasma Update 1.1.0",
+      "author": "Lunix",
+      "date": "2024-05-09",
+      "category": "Update",
+      "description": "Discover the latest enhancements and fixes in Plasma's newest release.",
+      "keywords": [
+        "Update",
+        "Patchnotes"
+      ],
+      "image": "../covers/tools_purple_small.webp",
+      "draft": false
+    }
+  },
+  {
+    "id": "-110493fe2",
     "path": "./posts/recap_2023.md",
     "slug": "2024-01-01/news/new-years-update-2024",
     "metadata": {
@@ -88,7 +106,7 @@
     }
   },
   {
-    "id": "-df8b1e4e",
+    "id": "-140bbb6fe",
     "path": "./posts/welcome.md",
     "slug": "2023-06-12/news/welcome-to-dimethoxy",
     "metadata": {
