@@ -1,6 +1,24 @@
 [
   {
-    "id": "ad50255e",
+    "id": "90c91a82",
+    "path": "./posts/aur_support.md",
+    "slug": "2024-11-30/news/we-are-now-on-the-aur",
+    "metadata": {
+      "title": "We Are Now on the AUR",
+      "author": "Lunix",
+      "date": "2024-11-30",
+      "category": "News",
+      "description": "We're excited to announce that Plasma is now available on the Arch User Repository (AUR)!",
+      "keywords": [
+        "News",
+        "Linux"
+      ],
+      "image": "../covers/arch2_small.webp",
+      "draft": false
+    }
+  },
+  {
+    "id": "c6792eb9",
     "path": "./posts/linux_support.md",
     "slug": "2024-05-05/news/official-linux-support",
     "metadata": {
@@ -17,7 +35,7 @@
     }
   },
   {
-    "id": "-bc622746",
+    "id": "-a3391dec",
     "path": "./posts/mac_support.md",
     "slug": "2024-05-08/news/exciting-mac-news",
     "metadata": {
@@ -34,7 +52,7 @@
     }
   },
   {
-    "id": "e85ee954",
+    "id": "187f2ae",
     "path": "./posts/plasma_1.0.1.md",
     "slug": "2023-08-21/update/plasma-update-101",
     "metadata": {
@@ -52,7 +70,7 @@
     }
   },
   {
-    "id": "13908c756",
+    "id": "5231d0af",
     "path": "./posts/plasma_1.0.2.md",
     "slug": "2024-01-02/update/plasma-update-102",
     "metadata": {
@@ -70,7 +88,7 @@
     }
   },
   {
-    "id": "655f6d15",
+    "id": "-81778991",
     "path": "./posts/plasma_1.1.0.md",
     "slug": "2024-05-09/update/plasma-update-110",
     "metadata": {
@@ -88,7 +106,25 @@
     }
   },
   {
-    "id": "-1100c87a4",
+    "id": "4c32d830",
+    "path": "./posts/plasma_1.2.0.md",
+    "slug": "2024-11-31/update/plasma-update-120",
+    "metadata": {
+      "title": "Plasma Update 1.2.0",
+      "author": "Lunix",
+      "date": "2024-11-31",
+      "category": "Update",
+      "description": "Discover the latest features, improvements, and fixes in Plasma's newest release.",
+      "keywords": [
+        "Update",
+        "Patchnotes"
+      ],
+      "image": "../covers/tools_purple_small.webp",
+      "draft": false
+    }
+  },
+  {
+    "id": "-1f6e37e4b",
     "path": "./posts/recap_2023.md",
     "slug": "2024-01-01/news/new-years-update-2024",
     "metadata": {
@@ -106,7 +142,7 @@
     }
   },
   {
-    "id": "-1407efec1",
+    "id": "-2755f568",
     "path": "./posts/welcome.md",
     "slug": "2023-06-12/news/welcome-to-dimethoxy",
     "metadata": {

@@ -7,37 +7,48 @@ Plasma is a free digital audio effect for VST3 hosts. With its asymmetrical dist
 However, Plasma is not just limited to hard dance genres – it's a versatile tool that can be used in any music production scenario. Use it to add grit and character to your guitar tracks or to create punishing basslines in your dubstep tracks. The possibilities with Plasma are endless.
 
 <div align="center">
-  <img src="https://github.com/Dimethoxy/Plasma/blob/master/Preview.png?raw=true" alt="Image of the GUI">
+  <img width="50%" src="https://github.com/Dimethoxy/Plasma/raw/refs/heads/main/CompressedPreview.webp" alt="Image of the GUI">
 </div>
 
 ## Features
 
 ---
 
-- Free (as in freedom) and open-source
+- Free and open-source
 - Asymmetrical distortion
-- 10 different distortion styles
-- 3 filters for shaping the tone
+- 4 filters for shaping the sound
+- 12 different distortion styles
 - Innovative "Girth" effect to add treble to your sound
-- Oscilloscope to visualize the output waveform
-- Color-customizable minimalistic vector GUI
-- Scalable for high-resolution displays
-- Very low resource consumption
-- Support for Windows, MacOS, and Linux
+- Oscilloscope to visualize waveform shaping
+- Color-customizable GUI
+- Pre-built binaries for Windows and macOS.
 
 ## Downloads
 
 ---
 
-You can download our pre-built binaries for Windows, MacOS and Linux from our [Github](https://github.com/Dimethoxy/Plasma/releases).
+You can download our pre-built binaries for Windows and macOS [here](https://github.com/Dimethoxy/Plasma/releases)
 
-## Video
+## Arch Linux
 
 ---
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%; overflow: hidden;">
-    <iframe src="https://www.youtube.com/embed/iFiXxtMXSkg?si=gqfY8340Q_GyThoq?vq=hd720" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
+There is now an AUR package available for Arch Linux users.
+
+You can install it easily by using your favorite AUR helper (e.g. [yay](https://github.com/Jguer/yay)):
+
+```bash
+yay -S dimethoxy-plasma-bin
+```
+
+Or manually:
+
+```sh
+sudo pacman -S --needed base-devel
+git clone https://aur.archlinux.org/dimethoxy-plasma-bin.git
+cd dimethoxy-plasma-bin
+makepkg -si
+```
 
 ## System Requirements
 
