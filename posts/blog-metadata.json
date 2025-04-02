@@ -1,6 +1,6 @@
 [
   {
-    "id": "5ae148c2",
+    "id": "2692551",
     "path": "./posts/aur_support.md",
     "slug": "2024-11-30/news/we-are-now-on-the-aur",
     "metadata": {
@@ -18,7 +18,7 @@
     }
   },
   {
-    "id": "90915cf8",
+    "id": "138193988",
     "path": "./posts/linux_support.md",
     "slug": "2024-05-05/news/official-linux-support",
     "metadata": {
@@ -35,7 +35,7 @@
     }
   },
   {
-    "id": "26df1053",
+    "id": "ce66ece3",
     "path": "./posts/mac_support.md",
     "slug": "2024-05-08/news/exciting-mac-news",
     "metadata": {
@@ -52,7 +52,7 @@
     }
   },
   {
-    "id": "-345fdf12",
+    "id": "7327fd7e",
     "path": "./posts/plasma_1.0.1.md",
     "slug": "2023-08-21/update/plasma-update-101",
     "metadata": {
@@ -70,7 +70,7 @@
     }
   },
   {
-    "id": "1c49feef",
+    "id": "c3d1db7f",
     "path": "./posts/plasma_1.0.2.md",
     "slug": "2024-01-02/update/plasma-update-102",
     "metadata": {
@@ -88,7 +88,7 @@
     }
   },
   {
-    "id": "48a0a4ae",
+    "id": "-fd77ec2",
     "path": "./posts/plasma_1.1.0.md",
     "slug": "2024-05-09/update/plasma-update-110",
     "metadata": {
@@ -106,7 +106,7 @@
     }
   },
   {
-    "id": "164b066f",
+    "id": "-1422d1d00",
     "path": "./posts/plasma_1.2.0.md",
     "slug": "2024-11-31/update/plasma-update-120",
     "metadata": {
@@ -124,7 +124,7 @@
     }
   },
   {
-    "id": "-2ccb500b",
+    "id": "-8543737b",
     "path": "./posts/recap_2023.md",
     "slug": "2024-01-01/news/new-years-update-2024",
     "metadata": {
@@ -142,7 +142,7 @@
     }
   },
   {
-    "id": "-15d3dc728",
+    "id": "-1b5b5ea98",
     "path": "./posts/welcome.md",
     "slug": "2023-06-12/news/welcome-to-dimethoxy",
     "metadata": {
