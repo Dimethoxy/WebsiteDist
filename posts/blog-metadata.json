@@ -1,6 +1,6 @@
 [
   {
-    "id": "2692551",
+    "id": "1ff92cde6",
     "path": "./posts/aur_support.md",
     "slug": "2024-11-30/news/we-are-now-on-the-aur",
     "metadata": {
@@ -18,7 +18,26 @@
     }
   },
   {
-    "id": "138193988",
+    "id": "-cb34f37b",
+    "path": "./posts/disflux_1.0.0.md",
+    "slug": "2025-05-01/release/disflux---first-release",
+    "metadata": {
+      "title": "Disflux - First Release",
+      "author": "Lunix",
+      "date": "2025-05-01",
+      "category": "Release",
+      "description": "Discover the first release of Disflux, the wild audio effect plugin for Hard Techno and Rawstyle.",
+      "keywords": [
+        "Release",
+        "Audio Plugin",
+        "Distortion"
+      ],
+      "image": "../covers/bitwig_disflux_small.webp",
+      "draft": false
+    }
+  },
+  {
+    "id": "3542e21c",
     "path": "./posts/linux_support.md",
     "slug": "2024-05-05/news/official-linux-support",
     "metadata": {
@@ -35,7 +54,7 @@
     }
   },
   {
-    "id": "ce66ece3",
+    "id": "-346f6a88",
     "path": "./posts/mac_support.md",
     "slug": "2024-05-08/news/exciting-mac-news",
     "metadata": {
@@ -52,7 +71,7 @@
     }
   },
   {
-    "id": "7327fd7e",
+    "id": "7051a612",
     "path": "./posts/plasma_1.0.1.md",
     "slug": "2023-08-21/update/plasma-update-101",
     "metadata": {
@@ -70,7 +89,7 @@
     }
   },
   {
-    "id": "c3d1db7f",
+    "id": "1c0fb8413",
     "path": "./posts/plasma_1.0.2.md",
     "slug": "2024-01-02/update/plasma-update-102",
     "metadata": {
@@ -88,7 +107,7 @@
     }
   },
   {
-    "id": "-fd77ec2",
+    "id": "-12add62e",
     "path": "./posts/plasma_1.1.0.md",
     "slug": "2024-05-09/update/plasma-update-110",
     "metadata": {
@@ -106,7 +125,7 @@
     }
   },
   {
-    "id": "-1422d1d00",
+    "id": "-4503746d",
     "path": "./posts/plasma_1.2.0.md",
     "slug": "2024-11-31/update/plasma-update-120",
     "metadata": {
@@ -124,7 +143,7 @@
     }
   },
   {
-    "id": "-8543737b",
+    "id": "77e63518",
     "path": "./posts/recap_2023.md",
     "slug": "2024-01-01/news/new-years-update-2024",
     "metadata": {
@@ -142,7 +161,7 @@
     }
   },
   {
-    "id": "-1b5b5ea98",
+    "id": "-1b88c4204",
     "path": "./posts/welcome.md",
     "slug": "2023-06-12/news/welcome-to-dimethoxy",
     "metadata": {
